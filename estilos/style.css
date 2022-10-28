@@ -13,6 +13,7 @@
 }
 
 body {
+    height: 90vh;
     background-image: linear-gradient(45deg, #60D2DD, #648FE1, #8B5FE7, #E83AF7);
     background-attachment: fixed;
 }
@@ -21,7 +22,7 @@ main {
     background-color: white;
     border-radius: 10px;
     width: 90vw;
-    height: 70vh;
+    height: 90vh;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
