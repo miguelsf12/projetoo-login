@@ -12,10 +12,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-html, body {
-    height: 80vh;
-}
-
 body {
     background-image: linear-gradient(45deg, #60D2DD, #648FE1, #8B5FE7, #E83AF7);
     background-attachment: fixed;
